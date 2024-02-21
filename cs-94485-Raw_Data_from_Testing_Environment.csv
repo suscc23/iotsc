@@ -1,0 +1,10 @@
+﻿BlockIndex,Message ,HashCode Value,Proof Value,Timestamp 
+"{""index"":2","message:""Block mined!""","previous_hash:""756a4d4c1f13f2a2b98107bae39a23462d098389cd735a584d26de020859e4e2""",proof:533,"timestamp:""2024-01-03 18:24:48.245745""}"
+"{""index"":3","message:""Block mined!""","previous_hash:""311c4d9a9ee5d8950d644146f0a68b929ce009f9100833d2595cbf3589a955d3""",proof:45293,"timestamp:""2024-01-03 18:25:11.934531""}"
+"{""index"":4","message:""Block mined!""","previous_hash:""f55de4846cb2de52d7b19cce7f069b864cdd878741a0071e1c67bf997f258550""",proof:21391,"timestamp:""2024-01-03 18:25:19.010124""}"
+"{""index"":5","message:""Block mined!""","previous_hash:""b30c2d82ebd8c3501292cc769e5ee50ebe9fc64882111b4ea255b0e6946f85f5""",proof:8018,"timestamp:""2024-01-03 18:25:24.251631""}"
+"{""index"":6","message:""Block mined!""","previous_hash:""499f6e1c1cc5f51630b5f13b3fc9f07378d7e264d0f77019f6bf1ae6ff993781""",proof:48191,"timestamp:""2024-01-03 18:25:30.832138""}"
+"{""index"":7","message:""Block mined!""","previous_hash:""90a3f608da57ab00889160260bc2382c6b3af83d0b54d3fc771ef3998a1dac9a""",proof:19865,"timestamp:""2024-01-03 18:25:37.177409""}"
+"{""index"":8","message:""Block mined!""","previous_hash:""e6f4d6c133a6de7d376ef7171931c516422733dd12ed9ed0a2dedea7b76dccbe""",proof:95063,"timestamp:""2024-01-03 18:25:43.852176""}"
+"{""index"":9","message:""Block mined!""","previous_hash:""c2d4c029498a635539f6466dd3f23513c5a9cf70e6199d1493eb1365885de3f2""",proof:15457,"timestamp:""2024-01-03 18:25:50.029538""}"
+"{""index"":10","message:""Block mined!""","previous_hash:""369a0e6927901995fbf95427b4e9b9ede0b7b72a24dec514148b25bac0a647de""",proof:15479,"timestamp:""2024-01-03 18:25:55.471325""}"
